@@ -36,4 +36,4 @@ To run the scripts, ensure you have Python installed along with the required lib
 
 ```bash
 pip install numpy matplotlib scipy sympy scikit-learn
-``
+```
